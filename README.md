@@ -1,2 +1,2 @@
-# python
-programming in Python
+# movie trailers website
+programmed in Python
